@@ -1,0 +1,1 @@
+aquí va todo lo de la bd queda pendiente diagram
